@@ -1,0 +1,12 @@
+# Données téléchargées / générées (à reconstruire avec les scripts)
+data/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
